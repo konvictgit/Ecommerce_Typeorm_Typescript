@@ -4,7 +4,8 @@
   "description": "Ecommerce with TypeScript,pg,typeorm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,17 @@
   "bugs": {
     "url": "https://github.com/konvictgit/Ecommerce/issues"
   },
-  "homepage": "https://github.com/konvictgit/Ecommerce#readme"
+  "homepage": "https://github.com/konvictgit/Ecommerce#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.11.17",
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.3",
+    "typeorm": "^0.3.20"
+  }
 }
