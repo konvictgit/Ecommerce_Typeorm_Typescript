@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce_typeorm_typescript",
+  "version": "1.0.0",
+  "description": "Ecommerce with TypeScript,pg,typeorm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konvictgit/Ecommerce.git"
+  },
+  "author": "Abhishek Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konvictgit/Ecommerce/issues"
+  },
+  "homepage": "https://github.com/konvictgit/Ecommerce#readme"
+}
